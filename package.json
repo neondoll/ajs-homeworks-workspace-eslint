@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/neondoll/eslint.git"
+    "url": "git+https://github.com/neondoll/ajs-homeworks-workspace-eslint.git"
   },
   "author": "neondoll",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/neondoll/eslint/issues"
+    "url": "https://github.com/neondoll/ajs-homeworks-workspace-eslint/issues"
   },
-  "homepage": "https://github.com/neondoll/eslint#readme",
+  "homepage": "https://github.com/neondoll/ajs-homeworks-workspace-eslint#readme",
   "devDependencies": {
     "eslint": "^8.57.0",
     "eslint-config-airbnb-base": "^15.0.0",
